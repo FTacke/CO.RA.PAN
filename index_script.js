@@ -2,13 +2,13 @@ document.addEventListener('DOMContentLoaded', function() {
   const mp3LinksContainer = document.getElementById('mp3Links');
   const totalWordCountElement = document.getElementById('totalWordCount');
   const totalDurationElement = document.getElementById('totalDuration');
-  const subfolder = 'logo/'; // Unterordner mit Slash am Ende
+  const subfolder = 'grabaciones/'; // Unterordner mit Slash am Ende
 
   let totalWordCount = 0;
   let totalDurationInSeconds = 0;
 
   // Hier generieren wir Links für alle .mp3-Dateien im Unterordner
-  fetch(`logo/`)
+  fetch(`${subfolder}`)
     .then(response => response.text())
     .then(text => {
       const parser = new DOMParser();
