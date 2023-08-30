@@ -1,0 +1,4662 @@
+{
+    "id": "9c21b37e-c23b-41f5-bbec-36060f8e13c4",
+    "recordId": "felixtackegmailcom_1692288079178_1278415358",
+    "filename": "ARG_anunciador_5.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        },
+        {
+            "spkid": "spk2",
+            "name": "Speaker 2"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.98,
+                    "end": 1.46,
+                    "duration": 0.48000002,
+                    "text": "Estás",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 1.46,
+                    "end": 2.08,
+                    "duration": 0.6199999,
+                    "text": "escuchando",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.09,
+                    "end": 2.57,
+                    "duration": 0.48000002,
+                    "text": "Mitre.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 3.2,
+                    "end": 3.74,
+                    "duration": 0.53999996,
+                    "text": "A.m.",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 3.74,
+                    "end": 4.13,
+                    "duration": 0.3900001,
+                    "text": "siete",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 4.13,
+                    "end": 4.97,
+                    "duration": 0.8399997,
+                    "text": "90",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.97,
+                    "end": 5.27,
+                    "duration": 0.3000002,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.27,
+                    "end": 5.63,
+                    "duration": 0.36000013,
+                    "text": "nuestro",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.63,
+                    "end": 6.05,
+                    "duration": 0.42000008,
+                    "text": "canal",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 6.05,
+                    "end": 6.2,
+                    "duration": 0.14999962,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 6.2,
+                    "end": 6.8,
+                    "duration": 0.6000004,
+                    "text": "YouTube",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 6.8,
+                    "end": 7.1,
+                    "duration": 0.2999997,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 7.1,
+                    "end": 7.25,
+                    "duration": 0.1500001,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 7.25,
+                    "end": 7.58,
+                    "duration": 0.32999992,
+                    "text": "Radio",
+                    "conf": 0.77,
+                    "pristine": true
+                },
+                {
+                    "start": 7.58,
+                    "end": 7.91,
+                    "duration": 0.32999992,
+                    "text": "Mitre",
+                    "conf": 0.77,
+                    "pristine": true
+                },
+                {
+                    "start": 7.91,
+                    "end": 8.24,
+                    "duration": 0.32999992,
+                    "text": "punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.24,
+                    "end": 8.51,
+                    "duration": 0.27000046,
+                    "text": "com",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.51,
+                    "end": 8.93,
+                    "duration": 0.42000008,
+                    "text": "punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.93,
+                    "end": 9.2,
+                    "duration": 0.2699995,
+                    "text": "ar.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 11.99,
+                    "end": 12.35,
+                    "duration": 0.3600006,
+                    "text": "Las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 12.35,
+                    "end": 12.86,
+                    "duration": 0.5099993,
+                    "text": "primeras",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 12.86,
+                    "end": 13.76,
+                    "duration": 0.9000006,
+                    "text": "noticias,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 14.48,
+                    "end": 14.87,
+                    "duration": 0.39000034,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 14.87,
+                    "end": 15.35,
+                    "duration": 0.4800005,
+                    "text": "primeras",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 15.35,
+                    "end": 16.28,
+                    "duration": 0.9300003,
+                    "text": "opiniones,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 16.79,
+                    "end": 17.24,
+                    "duration": 0.44999886,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 17.24,
+                    "end": 17.81,
+                    "duration": 0.5699997,
+                    "text": "primeros",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 17.81,
+                    "end": 18.68,
+                    "duration": 0.87000084,
+                    "text": "análisis",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 19.22,
+                    "end": 19.64,
+                    "duration": 0.42000008,
+                    "text": "nos",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 19.64,
+                    "end": 20.06,
+                    "duration": 0.42000008,
+                    "text": "dicen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 20.06,
+                    "end": 20.27,
+                    "duration": 0.21000099,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 20.27,
+                    "end": 20.78,
+                    "duration": 0.5100002,
+                    "text": "hay",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 21.71,
+                    "end": 22.22,
+                    "duration": 0.5100002,
+                    "text": "un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.22,
+                    "end": 22.61,
+                    "duration": 0.3900013,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.61,
+                    "end": 22.82,
+                    "duration": 0.20999908,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.82,
+                    "end": 23.6,
+                    "duration": 0.7800007,
+                    "text": "delante.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.04,
+                    "end": 25.28,
+                    "duration": 0.23999977,
+                    "text": "Con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.28,
+                    "end": 25.43,
+                    "duration": 0.14999962,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.43,
+                    "end": 26.12,
+                    "duration": 0.69000053,
+                    "text": "conducción",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 26.12,
+                    "end": 26.39,
+                    "duration": 0.26999855,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 26.39,
+                    "end": 27.05,
+                    "duration": 0.65999985,
+                    "text": "Horacio",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 27.05,
+                    "end": 27.62,
+                    "duration": 0.5700016,
+                    "text": "Caride",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 27.62,
+                    "end": 27.98,
+                    "duration": 0.3599987,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 27.98,
+                    "end": 28.34,
+                    "duration": 0.3600006,
+                    "text": "Miguel",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 28.34,
+                    "end": 28.76,
+                    "duration": 0.42000008,
+                    "text": "Verdú.",
+                    "conf": 0.35,
+                    "pristine": true
+                },
+                {
+                    "start": 29.75,
+                    "end": 30.2,
+                    "duration": 0.45000076,
+                    "text": "Día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 30.2,
+                    "end": 30.41,
+                    "duration": 0.20999908,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 30.41,
+                    "end": 30.88,
+                    "duration": 0.4699993,
+                    "text": "delante",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 30.92,
+                    "end": 31.14,
+                    "duration": 0.21999931,
+                    "text": "La",
+                    "conf": 0.95,
+                    "pristine": true
+                },
+                {
+                    "start": 31.16,
+                    "end": 31.55,
+                    "duration": 0.3899994,
+                    "text": "tela.",
+                    "conf": 0.61,
+                    "pristine": true
+                },
+                {
+                    "start": 32.15,
+                    "end": 32.6,
+                    "duration": 0.44999695,
+                    "text": "Hasta",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 32.6,
+                    "end": 32.81,
+                    "duration": 0.2100029,
+                    "text": "las",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 32.81,
+                    "end": 33.29,
+                    "duration": 0.47999954,
+                    "text": "seis.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 33.81,
+                    "end": 34.05,
+                    "duration": 0.23999786,
+                    "text": "Por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 34.05,
+                    "end": 34.53,
+                    "duration": 0.47999954,
+                    "text": "Mitre.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 36.52,
+                    "end": 36.88,
+                    "duration": 0.3600006,
+                    "text": "Un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 36.88,
+                    "end": 37.27,
+                    "duration": 0.3899994,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 37.27,
+                    "end": 37.48,
+                    "duration": 0.20999908,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 37.48,
+                    "end": 38.32,
+                    "duration": 0.84000015,
+                    "text": "delante",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 38.32,
+                    "end": 38.77,
+                    "duration": 0.45000076,
+                    "text": "para",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 38.77,
+                    "end": 39.22,
+                    "duration": 0.45000076,
+                    "text": "empezar",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.22,
+                    "end": 39.34,
+                    "duration": 0.11999893,
+                    "text": "el",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.34,
+                    "end": 39.58,
+                    "duration": 0.24000168,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.58,
+                    "end": 39.79,
+                    "duration": 0.20999908,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.79,
+                    "end": 39.97,
+                    "duration": 0.1800003,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.97,
+                    "end": 40.39,
+                    "duration": 0.41999817,
+                    "text": "mejor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 40.39,
+                    "end": 41.58,
+                    "duration": 1.1900024,
+                    "text": "información",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 41.59,
+                    "end": 41.95,
+                    "duration": 0.3600006,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 41.95,
+                    "end": 42.4,
+                    "duration": 0.45000076,
+                    "text": "Mitre",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 42.79,
+                    "end": 43.21,
+                    "duration": 0.41999817,
+                    "text": "una",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 43.21,
+                    "end": 43.66,
+                    "duration": 0.45000076,
+                    "text": "hora",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 43.66,
+                    "end": 44.02,
+                    "duration": 0.3600006,
+                    "text": "para",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 44.02,
+                    "end": 44.26,
+                    "duration": 0.23999786,
+                    "text": "estar",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 44.26,
+                    "end": 44.95,
+                    "duration": 0.69000244,
+                    "text": "informado",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 44.95,
+                    "end": 45.46,
+                    "duration": 0.5099983,
+                    "text": "todo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 45.46,
+                    "end": 45.64,
+                    "duration": 0.1800003,
+                    "text": "un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 45.64,
+                    "end": 46.21,
+                    "duration": 0.5699997,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 46.6,
+                    "end": 46.93,
+                    "duration": 0.33000183,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 46.93,
+                    "end": 47.38,
+                    "duration": 0.45000076,
+                    "text": "Mitre.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 50.14,
+                    "end": 50.56,
+                    "duration": 0.42000198,
+                    "text": "Este",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 50.56,
+                    "end": 51.34,
+                    "duration": 0.7799988,
+                    "text": "domingo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 51.34,
+                    "end": 52.6,
+                    "duration": 1.2599983,
+                    "text": "Argentina",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 52.6,
+                    "end": 53.4,
+                    "duration": 0.80000305,
+                    "text": "elige",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 53.41,
+                    "end": 53.92,
+                    "duration": 0.5099983,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 53.92,
+                    "end": 54.52,
+                    "duration": 0.6000023,
+                    "text": "Mitre",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 55.39,
+                    "end": 55.75,
+                    "duration": 0.3600006,
+                    "text": "viví",
+                    "conf": 0.56,
+                    "pristine": true
+                },
+                {
+                    "start": 55.75,
+                    "end": 55.99,
+                    "duration": 0.24000168,
+                    "text": "las",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 55.99,
+                    "end": 56.56,
+                    "duration": 0.5699997,
+                    "text": "paso",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 56.56,
+                    "end": 57.34,
+                    "duration": 0.7799988,
+                    "text": "minuto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 57.34,
+                    "end": 57.49,
+                    "duration": 0.15000153,
+                    "text": "a",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 57.49,
+                    "end": 58.12,
+                    "duration": 0.62999725,
+                    "text": "minuto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 58.12,
+                    "end": 58.42,
+                    "duration": 0.29999924,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 58.42,
+                    "end": 58.9,
+                    "duration": 0.48000336,
+                    "text": "móviles",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 58.9,
+                    "end": 59.02,
+                    "duration": 0.11999893,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 59.02,
+                    "end": 59.2,
+                    "duration": 0.1800003,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 59.2,
+                    "end": 59.86,
+                    "duration": 0.65999985,
+                    "text": "principales",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 59.86,
+                    "end": 60.28,
+                    "duration": 0.41999817,
+                    "text": "puntos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 60.28,
+                    "end": 60.52,
+                    "duration": 0.24000168,
+                    "text": "del",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 60.52,
+                    "end": 61.05,
+                    "duration": 0.5299988,
+                    "text": "país.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 61.06,
+                    "end": 61.48,
+                    "duration": 0.41999817,
+                    "text": "Los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 61.48,
+                    "end": 62.11,
+                    "duration": 0.63000107,
+                    "text": "primeros",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 62.11,
+                    "end": 63.19,
+                    "duration": 1.079998,
+                    "text": "resultados,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 63.2,
+                    "end": 63.4,
+                    "duration": 0.20000076,
+                    "text": "el",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 63.4,
+                    "end": 63.94,
+                    "duration": 0.5399971,
+                    "text": "análisis",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 63.94,
+                    "end": 64.06,
+                    "duration": 0.11999893,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 64.09,
+                    "end": 64.24,
+                    "duration": 0.15000153,
+                    "text": "lo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 64.24,
+                    "end": 64.36,
+                    "duration": 0.12000275,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 64.36,
+                    "end": 64.81,
+                    "duration": 0.44999695,
+                    "text": "pasa",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 64.81,
+                    "end": 65.02,
+                    "duration": 0.20999908,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 65.02,
+                    "end": 65.11,
+                    "duration": 0.09000397,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 65.11,
+                    "end": 65.23,
+                    "duration": 0.12000275,
+                    "text": "lo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 65.23,
+                    "end": 65.35,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 65.35,
+                    "end": 65.95,
+                    "duration": 0.5999985,
+                    "text": "vendrá.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 66.37,
+                    "end": 67.39,
+                    "duration": 1.0199966,
+                    "text": "Primarias",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 67.39,
+                    "end": 68.38,
+                    "duration": 0.98999786,
+                    "text": "abiertas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 68.38,
+                    "end": 68.77,
+                    "duration": 0.3899994,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 68.77,
+                    "end": 69.37,
+                    "duration": 0.6000061,
+                    "text": "Mitre",
+                    "conf": 0.69,
+                    "pristine": true
+                },
+                {
+                    "start": 70,
+                    "end": 70.42,
+                    "duration": 0.41999817,
+                    "text": "este",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 70.42,
+                    "end": 71.05,
+                    "duration": 0.6300049,
+                    "text": "domingo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 71.05,
+                    "end": 71.38,
+                    "duration": 0.3299942,
+                    "text": "desde",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 71.38,
+                    "end": 71.59,
+                    "duration": 0.20999908,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 71.59,
+                    "end": 72.7,
+                    "duration": 1.1100006,
+                    "text": "08:00",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 72.7,
+                    "end": 73.03,
+                    "duration": 0.33000183,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 73.03,
+                    "end": 73.36,
+                    "duration": 0.33000183,
+                    "text": "una",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 73.36,
+                    "end": 74.17,
+                    "duration": 0.80999756,
+                    "text": "programación",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 74.17,
+                    "end": 74.92,
+                    "duration": 0.75,
+                    "text": "especial",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 74.92,
+                    "end": 75.28,
+                    "duration": 0.3600006,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 75.28,
+                    "end": 75.76,
+                    "duration": 0.48000336,
+                    "text": "Eduardo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 75.76,
+                    "end": 76.42,
+                    "duration": 0.65999603,
+                    "text": "Feinmann,",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 76.42,
+                    "end": 77.02,
+                    "duration": 0.5999985,
+                    "text": "Jorge",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 77.02,
+                    "end": 77.65,
+                    "duration": 0.6300049,
+                    "text": "Lanata,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 77.65,
+                    "end": 77.98,
+                    "duration": 0.33000183,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 77.98,
+                    "end": 78.91,
+                    "duration": 0.9300003,
+                    "text": "participación",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 78.91,
+                    "end": 79.06,
+                    "duration": 0.1499939,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 79.06,
+                    "end": 79.57,
+                    "duration": 0.51000214,
+                    "text": "Roberto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 79.57,
+                    "end": 80.29,
+                    "duration": 0.7200012,
+                    "text": "Moldavsky,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 80.32,
+                    "end": 81.16,
+                    "duration": 0.84000397,
+                    "text": "Alfredo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 81.16,
+                    "end": 81.34,
+                    "duration": 0.17999268,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 81.34,
+                    "end": 81.7,
+                    "duration": 0.3600006,
+                    "text": "Diego",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 81.7,
+                    "end": 82.27,
+                    "duration": 0.5699997,
+                    "text": "Leuco,",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 82.27,
+                    "end": 82.84,
+                    "duration": 0.5699997,
+                    "text": "María",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 82.84,
+                    "end": 83.38,
+                    "duration": 0.5400009,
+                    "text": "Isabel",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 83.38,
+                    "end": 84.16,
+                    "duration": 0.7800064,
+                    "text": "Sánchez,",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 84.16,
+                    "end": 84.64,
+                    "duration": 0.47999573,
+                    "text": "Rolo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 84.64,
+                    "end": 85.24,
+                    "duration": 0.5999985,
+                    "text": "Villar,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 85.27,
+                    "end": 85.69,
+                    "duration": 0.4200058,
+                    "text": "Tato",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 85.69,
+                    "end": 86.18,
+                    "duration": 0.48999786,
+                    "text": "Yan,",
+                    "conf": 0.35,
+                    "pristine": true
+                },
+                {
+                    "start": 86.2,
+                    "end": 86.77,
+                    "duration": 0.5699997,
+                    "text": "Jorge",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 86.77,
+                    "end": 87.4,
+                    "duration": 0.6300049,
+                    "text": "Fernández",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 87.4,
+                    "end": 87.94,
+                    "duration": 0.5400009,
+                    "text": "Díaz",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 87.94,
+                    "end": 88.15,
+                    "duration": 0.20999908,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 88.15,
+                    "end": 88.42,
+                    "duration": 0.26999664,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 88.42,
+                    "end": 88.84,
+                    "duration": 0.41999817,
+                    "text": "equipos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 88.84,
+                    "end": 88.96,
+                    "duration": 0.12000275,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 88.96,
+                    "end": 89.14,
+                    "duration": 0.1800003,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 89.14,
+                    "end": 89.62,
+                    "duration": 0.48000336,
+                    "text": "programas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 89.62,
+                    "end": 89.77,
+                    "duration": 0.1499939,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 89.77,
+                    "end": 89.95,
+                    "duration": 0.1800003,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 89.95,
+                    "end": 90.73,
+                    "duration": 0.7800064,
+                    "text": "acompañan",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 90.73,
+                    "end": 90.88,
+                    "duration": 0.1499939,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 90.88,
+                    "end": 91,
+                    "duration": 0.12000275,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 91,
+                    "end": 91.9,
+                    "duration": 0.9000015,
+                    "text": "informan",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 91.9,
+                    "end": 92.41,
+                    "duration": 0.51000214,
+                    "text": "todos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 92.41,
+                    "end": 92.62,
+                    "duration": 0.20999908,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 92.62,
+                    "end": 93.34,
+                    "duration": 0.7199936,
+                    "text": "días.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 94.03,
+                    "end": 95.2,
+                    "duration": 1.1699982,
+                    "text": "Primarias",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 95.2,
+                    "end": 96.25,
+                    "duration": 1.050003,
+                    "text": "abiertas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 96.35,
+                    "end": 96.8,
+                    "duration": 0.45000458,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 96.8,
+                    "end": 97.37,
+                    "duration": 0.5699997,
+                    "text": "Mitre",
+                    "conf": 0.78,
+                    "pristine": true
+                },
+                {
+                    "start": 97.46,
+                    "end": 97.79,
+                    "duration": 0.33000183,
+                    "text": "para",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 97.79,
+                    "end": 98.51,
+                    "duration": 0.7200012,
+                    "text": "compartir",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 98.51,
+                    "end": 98.75,
+                    "duration": 0.23999786,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 98.75,
+                    "end": 99.26,
+                    "duration": 0.51000214,
+                    "text": "primeras",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 99.26,
+                    "end": 100.22,
+                    "duration": 0.9599991,
+                    "text": "tendencias",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 100.22,
+                    "end": 100.43,
+                    "duration": 0.20999908,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 100.43,
+                    "end": 100.76,
+                    "duration": 0.33000183,
+                    "text": "llegar",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 100.76,
+                    "end": 100.85,
+                    "duration": 0.08999634,
+                    "text": "a",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 100.85,
+                    "end": 100.97,
+                    "duration": 0.12000275,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 100.97,
+                    "end": 101.18,
+                    "duration": 0.20999908,
+                    "text": "hora",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 101.18,
+                    "end": 101.3,
+                    "duration": 0.12000275,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 101.3,
+                    "end": 101.48,
+                    "duration": 0.1800003,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 101.48,
+                    "end": 102.29,
+                    "duration": 0.80999756,
+                    "text": "resultados",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.29,
+                    "end": 102.59,
+                    "duration": 0.29999542,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.59,
+                    "end": 102.8,
+                    "duration": 0.21000671,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.8,
+                    "end": 103.37,
+                    "duration": 0.5699997,
+                    "text": "mejor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 103.37,
+                    "end": 104.33,
+                    "duration": 0.9599991,
+                    "text": "información.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 105.02,
+                    "end": 105.44,
+                    "duration": 0.4200058,
+                    "text": "Este",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 105.44,
+                    "end": 106.22,
+                    "duration": 0.7799988,
+                    "text": "domingo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.22,
+                    "end": 106.61,
+                    "duration": 0.3899994,
+                    "text": "desde",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.61,
+                    "end": 106.88,
+                    "duration": 0.26999664,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.88,
+                    "end": 108.14,
+                    "duration": 1.2600021,
+                    "text": "08:00.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 109.19,
+                    "end": 110.18,
+                    "duration": 0.98999786,
+                    "text": "Juntos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 110.18,
+                    "end": 111.08,
+                    "duration": 0.9000015,
+                    "text": "somos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 111.08,
+                    "end": 111.89,
+                    "duration": 0.80999756,
+                    "text": "Mitre.",
+                    "conf": 0.98,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 112.7,
+                    "end": 113,
+                    "duration": 0.30000305,
+                    "text": "Un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 113,
+                    "end": 113.18,
+                    "duration": 0.1800003,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 113.18,
+                    "end": 113.3,
+                    "duration": 0.12000275,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 113.3,
+                    "end": 113.42,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 113.42,
+                    "end": 113.6,
+                    "duration": 0.1800003,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 113.6,
+                    "end": 114.38,
+                    "duration": 0.7799988,
+                    "text": "realidad",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 114.38,
+                    "end": 114.92,
+                    "duration": 0.5400009,
+                    "text": "merece",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 114.92,
+                    "end": 115.13,
+                    "duration": 0.20999908,
+                    "text": "ser",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 115.13,
+                    "end": 115.98,
+                    "duration": 0.8500061,
+                    "text": "analizada.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 116,
+                    "end": 116.42,
+                    "duration": 0.41999817,
+                    "text": "Desde",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 116.42,
+                    "end": 117.2,
+                    "duration": 0.7799988,
+                    "text": "temprano",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 117.65,
+                    "end": 117.89,
+                    "duration": 0.23999786,
+                    "text": "ya",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 117.89,
+                    "end": 118.04,
+                    "duration": 0.15000153,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 118.04,
+                    "end": 118.88,
+                    "duration": 0.83999634,
+                    "text": "despertaste.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 119.09,
+                    "end": 119.57,
+                    "duration": 0.48000336,
+                    "text": "Tenés",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 119.57,
+                    "end": 119.93,
+                    "duration": 0.3600006,
+                    "text": "un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 119.93,
+                    "end": 120.23,
+                    "duration": 0.30000305,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 120.23,
+                    "end": 120.41,
+                    "duration": 0.1800003,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 120.41,
+                    "end": 121.13,
+                    "duration": 0.7199936,
+                    "text": "delante,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 121.13,
+                    "end": 121.82,
+                    "duration": 0.69000244,
+                    "text": "también",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 121.82,
+                    "end": 122,
+                    "duration": 0.1800003,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 122,
+                    "end": 122.18,
+                    "duration": 0.1800003,
+                    "text": "tu",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 122.18,
+                    "end": 122.84,
+                    "duration": 0.65999603,
+                    "text": "celular,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 122.84,
+                    "end": 123.14,
+                    "duration": 0.30000305,
+                    "text": "tu",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 123.14,
+                    "end": 123.74,
+                    "duration": 0.5999985,
+                    "text": "tablet",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 123.74,
+                    "end": 124.1,
+                    "duration": 0.3600006,
+                    "text": "o",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 124.1,
+                    "end": 124.31,
+                    "duration": 0.20999908,
+                    "text": "tu",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 124.31,
+                    "end": 125.33,
+                    "duration": 1.0200043,
+                    "text": "computadora?",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 125.36,
+                    "end": 126.11,
+                    "duration": 0.75,
+                    "text": "Ingresa",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 126.11,
+                    "end": 126.32,
+                    "duration": 0.20999908,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 126.32,
+                    "end": 126.68,
+                    "duration": 0.3600006,
+                    "text": "Radio",
+                    "conf": 0.77,
+                    "pristine": true
+                },
+                {
+                    "start": 126.68,
+                    "end": 127.04,
+                    "duration": 0.3600006,
+                    "text": "Mitre",
+                    "conf": 0.77,
+                    "pristine": true
+                },
+                {
+                    "start": 127.04,
+                    "end": 127.34,
+                    "duration": 0.29999542,
+                    "text": "punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.34,
+                    "end": 127.58,
+                    "duration": 0.2400055,
+                    "text": "com,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.58,
+                    "end": 127.94,
+                    "duration": 0.3600006,
+                    "text": "punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.94,
+                    "end": 128.3,
+                    "duration": 0.3600006,
+                    "text": "ar",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 128.3,
+                    "end": 128.6,
+                    "duration": 0.30000305,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 128.6,
+                    "end": 129.08,
+                    "duration": 0.47999573,
+                    "text": "escuchá",
+                    "conf": 0.73,
+                    "pristine": true
+                },
+                {
+                    "start": 129.11,
+                    "end": 129.71,
+                    "duration": 0.6000061,
+                    "text": "Mitre",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 129.86,
+                    "end": 130.34,
+                    "duration": 0.47999573,
+                    "text": "todo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 130.34,
+                    "end": 130.49,
+                    "duration": 0.15000916,
+                    "text": "el",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 130.49,
+                    "end": 130.94,
+                    "duration": 0.44999695,
+                    "text": "día.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 131.78,
+                    "end": 132.26,
+                    "duration": 0.47999573,
+                    "text": "Un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 132.26,
+                    "end": 132.65,
+                    "duration": 0.3899994,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 132.65,
+                    "end": 132.86,
+                    "duration": 0.21000671,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 132.86,
+                    "end": 133.69,
+                    "duration": 0.83000183,
+                    "text": "delante.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 133.7,
+                    "end": 134.06,
+                    "duration": 0.3600006,
+                    "text": "Un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 134.06,
+                    "end": 134.27,
+                    "duration": 0.21000671,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 134.27,
+                    "end": 134.36,
+                    "duration": 0.08999634,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 134.36,
+                    "end": 134.51,
+                    "duration": 0.1499939,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 134.51,
+                    "end": 134.66,
+                    "duration": 0.15000916,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 134.66,
+                    "end": 135.44,
+                    "duration": 0.7799988,
+                    "text": "realidad",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 135.44,
+                    "end": 135.98,
+                    "duration": 0.5399933,
+                    "text": "merece",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 135.98,
+                    "end": 136.19,
+                    "duration": 0.21000671,
+                    "text": "ser",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 136.19,
+                    "end": 137.05,
+                    "duration": 0.8600006,
+                    "text": "analizada",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 137.06,
+                    "end": 137.51,
+                    "duration": 0.44999695,
+                    "text": "desde",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 137.51,
+                    "end": 138.32,
+                    "duration": 0.8100128,
+                    "text": "temprano",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 138.59,
+                    "end": 138.92,
+                    "duration": 0.33000183,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 138.92,
+                    "end": 139.37,
+                    "duration": 0.44999695,
+                    "text": "Mitre.",
+                    "conf": 0.92,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 139.61,
+                    "end": 140.03,
+                    "duration": 0.41999817,
+                    "text": "Las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 140.03,
+                    "end": 140.78,
+                    "duration": 0.75,
+                    "text": "noticias",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 140.78,
+                    "end": 141.11,
+                    "duration": 0.33000183,
+                    "text": "no",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 141.11,
+                    "end": 141.62,
+                    "duration": 0.5099945,
+                    "text": "pueden",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 141.62,
+                    "end": 142.35,
+                    "duration": 0.730011,
+                    "text": "esperar.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 142.37,
+                    "end": 143.06,
+                    "duration": 0.69000244,
+                    "text": "Tenés",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 143.06,
+                    "end": 143.51,
+                    "duration": 0.44999695,
+                    "text": "un",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 143.51,
+                    "end": 143.9,
+                    "duration": 0.3899994,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 143.9,
+                    "end": 144.14,
+                    "duration": 0.2400055,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 144.14,
+                    "end": 144.86,
+                    "duration": 0.7200012,
+                    "text": "delante.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 145.34,
+                    "end": 146.15,
+                    "duration": 0.80999756,
+                    "text": "Feinmann,",
+                    "conf": 0.79,
+                    "pristine": true
+                },
+                {
+                    "start": 146.15,
+                    "end": 147.02,
+                    "duration": 0.8700104,
+                    "text": "Lanata",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 147.02,
+                    "end": 147.29,
+                    "duration": 0.269989,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 147.29,
+                    "end": 147.44,
+                    "duration": 0.15000916,
+                    "text": "tu",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 147.44,
+                    "end": 147.95,
+                    "duration": 0.5099945,
+                    "text": "momento",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 147.95,
+                    "end": 148.61,
+                    "duration": 0.66000366,
+                    "text": "preferido",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 148.61,
+                    "end": 148.76,
+                    "duration": 0.1499939,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 148.76,
+                    "end": 148.85,
+                    "duration": 0.0900116,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 148.85,
+                    "end": 149.54,
+                    "duration": 0.6899872,
+                    "text": "mañana.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 149.54,
+                    "end": 149.72,
+                    "duration": 0.18000793,
+                    "text": "El",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 149.72,
+                    "end": 149.93,
+                    "duration": 0.20999146,
+                    "text": "tipo.",
+                    "conf": 0.95,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 151.04,
+                    "end": 151.49,
+                    "duration": 0.4500122,
+                    "text": "Estás",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 151.49,
+                    "end": 152.12,
+                    "duration": 0.6299896,
+                    "text": "escuchando?",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 152.12,
+                    "end": 152.63,
+                    "duration": 0.51000977,
+                    "text": "Mitre",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 153.29,
+                    "end": 153.8,
+                    "duration": 0.51000977,
+                    "text": "A.M.",
+                    "conf": 0.45,
+                    "pristine": true
+                },
+                {
+                    "start": 153.8,
+                    "end": 154.16,
+                    "duration": 0.3600006,
+                    "text": "siete",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 154.16,
+                    "end": 155,
+                    "duration": 0.83999634,
+                    "text": "90",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 155,
+                    "end": 155.33,
+                    "duration": 0.33000183,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 155.33,
+                    "end": 155.69,
+                    "duration": 0.3600006,
+                    "text": "nuestro",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 155.69,
+                    "end": 156.11,
+                    "duration": 0.41999817,
+                    "text": "canal",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 156.11,
+                    "end": 156.26,
+                    "duration": 0.1499939,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 156.26,
+                    "end": 156.86,
+                    "duration": 0.6000061,
+                    "text": "YouTube",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 156.86,
+                    "end": 157.13,
+                    "duration": 0.27000427,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 157.13,
+                    "end": 157.28,
+                    "duration": 0.1499939,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 157.28,
+                    "end": 157.58,
+                    "duration": 0.30000305,
+                    "text": "Radio",
+                    "conf": 0.93,
+                    "pristine": true
+                },
+                {
+                    "start": 157.58,
+                    "end": 157.94,
+                    "duration": 0.3600006,
+                    "text": "Mitre",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 157.94,
+                    "end": 158.27,
+                    "duration": 0.33000183,
+                    "text": "Punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 158.27,
+                    "end": 158.54,
+                    "duration": 0.269989,
+                    "text": "com",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 158.54,
+                    "end": 158.96,
+                    "duration": 0.42001343,
+                    "text": "punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 158.96,
+                    "end": 160.36,
+                    "duration": 1.3999939,
+                    "text": "ar.",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 160.36,
+                    "end": 161.3,
+                    "duration": 0.94000244,
+                    "text": "Si",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 161.3,
+                    "end": 161.39,
+                    "duration": 0.08999634,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 161.39,
+                    "end": 161.66,
+                    "duration": 0.27000427,
+                    "text": "estás",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 161.66,
+                    "end": 162.52,
+                    "duration": 0.8600006,
+                    "text": "despertando,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 162.53,
+                    "end": 162.86,
+                    "duration": 0.33000183,
+                    "text": "crees",
+                    "conf": 0.95,
+                    "pristine": true
+                },
+                {
+                    "start": 162.86,
+                    "end": 162.98,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 162.98,
+                    "end": 163.16,
+                    "duration": 0.18000793,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 163.16,
+                    "end": 163.7,
+                    "duration": 0.5399933,
+                    "text": "hablen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 163.7,
+                    "end": 164.54,
+                    "duration": 0.83999634,
+                    "text": "despacito?",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 164.99,
+                    "end": 165.32,
+                    "duration": 0.33000183,
+                    "text": "Si",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 165.32,
+                    "end": 165.5,
+                    "duration": 0.17999268,
+                    "text": "ya",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 165.5,
+                    "end": 165.83,
+                    "duration": 0.33000183,
+                    "text": "estás",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 165.83,
+                    "end": 166.61,
+                    "duration": 0.7799988,
+                    "text": "desayunando,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 166.61,
+                    "end": 166.73,
+                    "duration": 0.11999512,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 166.73,
+                    "end": 167.03,
+                    "duration": 0.30000305,
+                    "text": "gusta",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 167.03,
+                    "end": 167.15,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 167.15,
+                    "end": 167.27,
+                    "duration": 0.120010376,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 167.27,
+                    "end": 167.66,
+                    "duration": 0.3899994,
+                    "text": "digan",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 167.66,
+                    "end": 168.05,
+                    "duration": 0.3899994,
+                    "text": "todo",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 168.05,
+                    "end": 168.32,
+                    "duration": 0.27000427,
+                    "text": "para",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 168.32,
+                    "end": 168.59,
+                    "duration": 0.269989,
+                    "text": "estar",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 168.59,
+                    "end": 168.86,
+                    "duration": 0.27000427,
+                    "text": "bien",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 168.86,
+                    "end": 169.61,
+                    "duration": 0.75,
+                    "text": "informado",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 169.61,
+                    "end": 169.97,
+                    "duration": 0.3600006,
+                    "text": "desde",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 169.97,
+                    "end": 170.54,
+                    "duration": 0.56999207,
+                    "text": "temprano.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 170.57,
+                    "end": 170.96,
+                    "duration": 0.3899994,
+                    "text": "Si",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 170.96,
+                    "end": 171.2,
+                    "duration": 0.23999023,
+                    "text": "ya",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 171.2,
+                    "end": 171.59,
+                    "duration": 0.3899994,
+                    "text": "estás",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 171.59,
+                    "end": 171.71,
+                    "duration": 0.120010376,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 171.71,
+                    "end": 172.04,
+                    "duration": 0.32998657,
+                    "text": "viaje",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 172.04,
+                    "end": 172.16,
+                    "duration": 0.120010376,
+                    "text": "al",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 172.16,
+                    "end": 172.79,
+                    "duration": 0.6299896,
+                    "text": "trabajo,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 172.79,
+                    "end": 173.09,
+                    "duration": 0.30000305,
+                    "text": "querés",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 173.09,
+                    "end": 173.18,
+                    "duration": 0.08999634,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 173.18,
+                    "end": 173.33,
+                    "duration": 0.15000916,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 173.33,
+                    "end": 173.84,
+                    "duration": 0.5099945,
+                    "text": "cuenten",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 173.84,
+                    "end": 174.2,
+                    "duration": 0.3600006,
+                    "text": "bien",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 174.2,
+                    "end": 174.38,
+                    "duration": 0.18000793,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 174.38,
+                    "end": 175.08,
+                    "duration": 0.69999695,
+                    "text": "cosas.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 175.1,
+                    "end": 175.31,
+                    "duration": 0.20999146,
+                    "text": "Si",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 175.31,
+                    "end": 175.58,
+                    "duration": 0.27000427,
+                    "text": "estás",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 175.58,
+                    "end": 175.7,
+                    "duration": 0.11999512,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 175.7,
+                    "end": 175.82,
+                    "duration": 0.120010376,
+                    "text": "tu",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 175.82,
+                    "end": 176.27,
+                    "duration": 0.44999695,
+                    "text": "casa,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 176.27,
+                    "end": 177.02,
+                    "duration": 0.75,
+                    "text": "necesitás",
+                    "conf": 0.91,
+                    "pristine": true
+                },
+                {
+                    "start": 177.02,
+                    "end": 177.17,
+                    "duration": 0.1499939,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 177.17,
+                    "end": 177.62,
+                    "duration": 0.44999695,
+                    "text": "analicen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 177.62,
+                    "end": 177.74,
+                    "duration": 0.120010376,
+                    "text": "lo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 177.74,
+                    "end": 177.86,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 177.86,
+                    "end": 178.1,
+                    "duration": 0.2400055,
+                    "text": "está",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 178.1,
+                    "end": 178.58,
+                    "duration": 0.47999573,
+                    "text": "pasando",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 178.58,
+                    "end": 178.73,
+                    "duration": 0.1499939,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 178.73,
+                    "end": 179.33,
+                    "duration": 0.6000061,
+                    "text": "detalle.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 179.57,
+                    "end": 179.9,
+                    "duration": 0.32998657,
+                    "text": "Cuando",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 179.9,
+                    "end": 180.23,
+                    "duration": 0.33000183,
+                    "text": "pasan",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 180.23,
+                    "end": 180.53,
+                    "duration": 0.30000305,
+                    "text": "cosas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 180.53,
+                    "end": 181.04,
+                    "duration": 0.5099945,
+                    "text": "buenas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 181.04,
+                    "end": 181.31,
+                    "duration": 0.27000427,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 181.31,
+                    "end": 181.67,
+                    "duration": 0.3600006,
+                    "text": "cuando",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 181.67,
+                    "end": 182.03,
+                    "duration": 0.3600006,
+                    "text": "pasan",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 182.03,
+                    "end": 182.36,
+                    "duration": 0.33000183,
+                    "text": "cosas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 182.36,
+                    "end": 182.99,
+                    "duration": 0.6300049,
+                    "text": "malas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 182.99,
+                    "end": 183.44,
+                    "duration": 0.44999695,
+                    "text": "no",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 183.44,
+                    "end": 183.8,
+                    "duration": 0.3600006,
+                    "text": "querés",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 183.8,
+                    "end": 183.95,
+                    "duration": 0.1499939,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 183.95,
+                    "end": 184.07,
+                    "duration": 0.120010376,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.07,
+                    "end": 184.7,
+                    "duration": 0.6299896,
+                    "text": "oculten",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.7,
+                    "end": 185.24,
+                    "duration": 0.54000854,
+                    "text": "nada.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 185.96,
+                    "end": 186.2,
+                    "duration": 0.23999023,
+                    "text": "Por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 186.2,
+                    "end": 186.41,
+                    "duration": 0.21000671,
+                    "text": "eso",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 186.41,
+                    "end": 186.56,
+                    "duration": 0.1499939,
+                    "text": "hay",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 186.56,
+                    "end": 186.77,
+                    "duration": 0.21000671,
+                    "text": "una",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 186.77,
+                    "end": 187.1,
+                    "duration": 0.33000183,
+                    "text": "voz",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 187.1,
+                    "end": 187.28,
+                    "duration": 0.17999268,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 187.28,
+                    "end": 187.4,
+                    "duration": 0.11999512,
+                    "text": "te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 187.4,
+                    "end": 188.06,
+                    "duration": 0.66000366,
+                    "text": "acompaña",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 188.06,
+                    "end": 188.57,
+                    "duration": 0.51000977,
+                    "text": "todas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 188.57,
+                    "end": 188.78,
+                    "duration": 0.20999146,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 188.78,
+                    "end": 189.47,
+                    "duration": 0.69000244,
+                    "text": "mañanas,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 189.47,
+                    "end": 189.98,
+                    "duration": 0.5099945,
+                    "text": "sin",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 189.98,
+                    "end": 190.64,
+                    "duration": 0.66000366,
+                    "text": "rodeos,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 190.64,
+                    "end": 191.18,
+                    "duration": 0.5399933,
+                    "text": "sin",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 191.18,
+                    "end": 191.48,
+                    "duration": 0.30000305,
+                    "text": "pelos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 191.48,
+                    "end": 191.6,
+                    "duration": 0.120010376,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 191.6,
+                    "end": 191.69,
+                    "duration": 0.08999634,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 191.69,
+                    "end": 192.23,
+                    "duration": 0.5399933,
+                    "text": "lengua.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 192.23,
+                    "end": 192.95,
+                    "duration": 0.7200012,
+                    "text": "Porque",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 192.95,
+                    "end": 193.85,
+                    "duration": 0.90000916,
+                    "text": "alguien",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 193.85,
+                    "end": 194.36,
+                    "duration": 0.5099945,
+                    "text": "tiene",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.36,
+                    "end": 194.51,
+                    "duration": 0.1499939,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.51,
+                    "end": 195.48,
+                    "duration": 0.9700012,
+                    "text": "decirlo.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 195.56,
+                    "end": 196.28,
+                    "duration": 0.7200012,
+                    "text": "Eduardo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 196.28,
+                    "end": 196.97,
+                    "duration": 0.69000244,
+                    "text": "Feinmann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 197.18,
+                    "end": 198.05,
+                    "duration": 0.8700104,
+                    "text": "Alguien",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.05,
+                    "end": 198.47,
+                    "duration": 0.41999817,
+                    "text": "tiene",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.47,
+                    "end": 198.62,
+                    "duration": 0.1499939,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.62,
+                    "end": 199.4,
+                    "duration": 0.7799988,
+                    "text": "decirlo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.4,
+                    "end": 199.7,
+                    "duration": 0.30000305,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.7,
+                    "end": 199.85,
+                    "duration": 0.15000916,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.85,
+                    "end": 200.63,
+                    "duration": 0.7799988,
+                    "text": "participación",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 200.63,
+                    "end": 201.17,
+                    "duration": 0.5399933,
+                    "text": "especial",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 201.17,
+                    "end": 201.38,
+                    "duration": 0.21000671,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 201.38,
+                    "end": 201.83,
+                    "duration": 0.44999695,
+                    "text": "María",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 201.83,
+                    "end": 202.37,
+                    "duration": 0.5399933,
+                    "text": "Isabel",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 202.37,
+                    "end": 203.23,
+                    "duration": 0.8600006,
+                    "text": "Sánchez,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 203.24,
+                    "end": 203.69,
+                    "duration": 0.44999695,
+                    "text": "Rolo",
+                    "conf": 0.94,
+                    "pristine": true
+                },
+                {
+                    "start": 203.69,
+                    "end": 204.25,
+                    "duration": 0.55999756,
+                    "text": "Villar,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 204.26,
+                    "end": 204.92,
+                    "duration": 0.66000366,
+                    "text": "Leandro",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 204.92,
+                    "end": 205.31,
+                    "duration": 0.3899994,
+                    "text": "Gonza,",
+                    "conf": 0.38,
+                    "pristine": true
+                },
+                {
+                    "start": 205.82,
+                    "end": 206.33,
+                    "duration": 0.5099945,
+                    "text": "Guillermo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 206.33,
+                    "end": 206.99,
+                    "duration": 0.66000366,
+                    "text": "Laborda,",
+                    "conf": 0.62,
+                    "pristine": true
+                },
+                {
+                    "start": 206.99,
+                    "end": 207.61,
+                    "duration": 0.6199951,
+                    "text": "Gabriel",
+                    "conf": 0.85,
+                    "pristine": true
+                },
+                {
+                    "start": 207.62,
+                    "end": 207.73,
+                    "duration": 0.11000061,
+                    "text": "y",
+                    "conf": 0.65,
+                    "pristine": true
+                },
+                {
+                    "start": 208.16,
+                    "end": 208.43,
+                    "duration": 0.269989,
+                    "text": "el",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 208.43,
+                    "end": 208.79,
+                    "duration": 0.3600006,
+                    "text": "doctor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 208.79,
+                    "end": 209.21,
+                    "duration": 0.42001343,
+                    "text": "Alberto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 209.21,
+                    "end": 209.81,
+                    "duration": 0.59999084,
+                    "text": "Cormillot",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 209.81,
+                    "end": 210.08,
+                    "duration": 0.27000427,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 210.08,
+                    "end": 210.41,
+                    "duration": 0.33000183,
+                    "text": "Juan",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 210.41,
+                    "end": 210.92,
+                    "duration": 0.5099945,
+                    "text": "Dilon",
+                    "conf": 0.66,
+                    "pristine": true
+                },
+                {
+                    "start": 211.37,
+                    "end": 211.76,
+                    "duration": 0.3899994,
+                    "text": "hasta",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 211.76,
+                    "end": 211.91,
+                    "duration": 0.15000916,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 211.91,
+                    "end": 212.6,
+                    "duration": 0.69000244,
+                    "text": "diez",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 212.6,
+                    "end": 212.99,
+                    "duration": 0.3899994,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 212.99,
+                    "end": 214.4,
+                    "duration": 1.4099884,
+                    "text": "Mitre",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 214.4,
+                    "end": 215.24,
+                    "duration": 0.8400116,
+                    "text": "en.",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 215.24,
+                    "end": 215.81,
+                    "duration": 0.56999207,
+                    "text": "Alguien",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 215.81,
+                    "end": 216.14,
+                    "duration": 0.33000183,
+                    "text": "tiene",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 216.14,
+                    "end": 216.26,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 216.26,
+                    "end": 217.04,
+                    "duration": 0.7799988,
+                    "text": "decirlo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 217.04,
+                    "end": 217.31,
+                    "duration": 0.27000427,
+                    "text": "El",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 217.31,
+                    "end": 217.82,
+                    "duration": 0.51000977,
+                    "text": "momento",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 217.82,
+                    "end": 217.94,
+                    "duration": 0.11999512,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 217.94,
+                    "end": 218.15,
+                    "duration": 0.20999146,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 218.15,
+                    "end": 218.54,
+                    "duration": 0.3899994,
+                    "text": "buenas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 218.54,
+                    "end": 219.47,
+                    "duration": 0.93000793,
+                    "text": "noticias",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 220.46,
+                    "end": 220.79,
+                    "duration": 0.32998657,
+                    "text": "con",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 220.79,
+                    "end": 221.18,
+                    "duration": 0.3899994,
+                    "text": "gente",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 221.18,
+                    "end": 221.33,
+                    "duration": 0.15000916,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 221.33,
+                    "end": 221.48,
+                    "duration": 0.1499939,
+                    "text": "nos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 221.48,
+                    "end": 222.38,
+                    "duration": 0.90000916,
+                    "text": "representa,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 222.38,
+                    "end": 222.98,
+                    "duration": 0.59999084,
+                    "text": "gente",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 222.98,
+                    "end": 223.13,
+                    "duration": 0.15000916,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 223.13,
+                    "end": 223.31,
+                    "duration": 0.17999268,
+                    "text": "nos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 223.31,
+                    "end": 223.61,
+                    "duration": 0.30000305,
+                    "text": "llena",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 223.61,
+                    "end": 223.76,
+                    "duration": 0.1499939,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 223.76,
+                    "end": 224.54,
+                    "duration": 0.7799988,
+                    "text": "orgullo,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 224.54,
+                    "end": 225.08,
+                    "duration": 0.54000854,
+                    "text": "gente",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 225.08,
+                    "end": 225.29,
+                    "duration": 0.20999146,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 225.29,
+                    "end": 225.98,
+                    "duration": 0.69000244,
+                    "text": "hace",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 225.98,
+                    "end": 227.03,
+                    "duration": 1.050003,
+                    "text": "gente",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 227.03,
+                    "end": 227.42,
+                    "duration": 0.3899994,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 227.42,
+                    "end": 227.93,
+                    "duration": 0.5099945,
+                    "text": "buena",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 227.93,
+                    "end": 228.68,
+                    "duration": 0.75,
+                    "text": "madera.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 228.71,
+                    "end": 229.7,
+                    "duration": 0.98999023,
+                    "text": "Presentado",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 229.7,
+                    "end": 230.18,
+                    "duration": 0.47999573,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 230.18,
+                    "end": 231.05,
+                    "duration": 0.8700104,
+                    "text": "Patagonia",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 231.05,
+                    "end": 231.53,
+                    "duration": 0.47999573,
+                    "text": "Floren.",
+                    "conf": 0.96,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 232.87,
+                    "end": 233.47,
+                    "duration": 0.6000061,
+                    "text": "Mitre",
+                    "conf": 0.76,
+                    "pristine": true
+                },
+                {
+                    "start": 233.47,
+                    "end": 234.22,
+                    "duration": 0.75,
+                    "text": "informa",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 234.22,
+                    "end": 234.97,
+                    "duration": 0.75,
+                    "text": "primero.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 236.15,
+                    "end": 236.57,
+                    "duration": 0.42001343,
+                    "text": "Las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 236.57,
+                    "end": 237.2,
+                    "duration": 0.6299896,
+                    "text": "noticias",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 237.2,
+                    "end": 237.53,
+                    "duration": 0.33000183,
+                    "text": "más",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 237.53,
+                    "end": 238.22,
+                    "duration": 0.69000244,
+                    "text": "importantes",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 238.22,
+                    "end": 238.46,
+                    "duration": 0.2400055,
+                    "text": "del",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 238.46,
+                    "end": 238.97,
+                    "duration": 0.5099945,
+                    "text": "día.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 238.97,
+                    "end": 239.45,
+                    "duration": 0.47999573,
+                    "text": "Cada",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 239.45,
+                    "end": 239.87,
+                    "duration": 0.41999817,
+                    "text": "media",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 239.87,
+                    "end": 240.97,
+                    "duration": 1.1000061,
+                    "text": "hora.",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 240.97,
+                    "end": 242.3,
+                    "duration": 1.3300018,
+                    "text": "Sábado",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 242.3,
+                    "end": 243.71,
+                    "duration": 1.4100037,
+                    "text": "tempranísimo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 243.71,
+                    "end": 244.16,
+                    "duration": 0.44999695,
+                    "text": "hasta",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 244.16,
+                    "end": 244.34,
+                    "duration": 0.17999268,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 244.34,
+                    "end": 244.88,
+                    "duration": 0.54000854,
+                    "text": "diez",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 245.03,
+                    "end": 245.42,
+                    "duration": 0.3899994,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 245.42,
+                    "end": 247.27,
+                    "duration": 1.8500061,
+                    "text": "Mitre.",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 247.27,
+                    "end": 247.89,
+                    "duration": 0.6199951,
+                    "text": "Lo",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 247.89,
+                    "end": 248.01,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 248.01,
+                    "end": 248.31,
+                    "duration": 0.30000305,
+                    "text": "pasó",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 248.31,
+                    "end": 248.52,
+                    "duration": 0.21000671,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 248.52,
+                    "end": 248.91,
+                    "duration": 0.3899994,
+                    "text": "toda",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 248.91,
+                    "end": 249.06,
+                    "duration": 0.1499939,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 249.06,
+                    "end": 249.6,
+                    "duration": 0.54000854,
+                    "text": "semana.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 249.6,
+                    "end": 249.81,
+                    "duration": 0.20999146,
+                    "text": "Te",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 249.81,
+                    "end": 249.93,
+                    "duration": 0.11999512,
+                    "text": "lo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 249.96,
+                    "end": 250.65,
+                    "duration": 0.6899872,
+                    "text": "contamos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 250.65,
+                    "end": 250.77,
+                    "duration": 0.120010376,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 250.77,
+                    "end": 250.92,
+                    "duration": 0.1499939,
+                    "text": "lo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 250.92,
+                    "end": 251.85,
+                    "duration": 0.93000793,
+                    "text": "pensamos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 251.85,
+                    "end": 252.93,
+                    "duration": 1.0799866,
+                    "text": "juntos.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 253.83,
+                    "end": 254.91,
+                    "duration": 1.0800018,
+                    "text": "Pensándolo",
+                    "conf": 0.89,
+                    "pristine": true
+                },
+                {
+                    "start": 254.91,
+                    "end": 255.48,
+                    "duration": 0.56999207,
+                    "text": "bien,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 255.48,
+                    "end": 255.93,
+                    "duration": 0.44999695,
+                    "text": "el",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 255.93,
+                    "end": 256.41,
+                    "duration": 0.480011,
+                    "text": "programa",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 256.41,
+                    "end": 256.59,
+                    "duration": 0.17999268,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 256.59,
+                    "end": 257.04,
+                    "duration": 0.4500122,
+                    "text": "Jorge",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 257.04,
+                    "end": 257.76,
+                    "duration": 0.7200012,
+                    "text": "Fernández",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 257.76,
+                    "end": 258.5,
+                    "duration": 0.73999023,
+                    "text": "Díaz.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 258.51,
+                    "end": 259.89,
+                    "duration": 1.3800049,
+                    "text": "Pensándolo",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 259.89,
+                    "end": 260.55,
+                    "duration": 0.65997314,
+                    "text": "bien,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 261.06,
+                    "end": 261.33,
+                    "duration": 0.269989,
+                    "text": "hasta",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 261.33,
+                    "end": 261.51,
+                    "duration": 0.1800232,
+                    "text": "las",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 261.51,
+                    "end": 262.11,
+                    "duration": 0.5999756,
+                    "text": "13.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 263.72,
+                    "end": 264.17,
+                    "duration": 0.4500122,
+                    "text": "Por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 264.17,
+                    "end": 265.2,
+                    "duration": 1.0299988,
+                    "text": "Mitre",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 265.2,
+                    "end": 265.82,
+                    "duration": 0.6199951,
+                    "text": "Los",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 265.82,
+                    "end": 266.57,
+                    "duration": 0.75,
+                    "text": "domingos",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 266.57,
+                    "end": 266.99,
+                    "duration": 0.4199829,
+                    "text": "hay",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 266.99,
+                    "end": 267.74,
+                    "duration": 0.75,
+                    "text": "más",
+                    "conf": 0.84,
+                    "pristine": true
+                },
+                {
+                    "start": 267.77,
+                    "end": 268.49,
+                    "duration": 0.7200012,
+                    "text": "Mitre",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 268.49,
+                    "end": 268.61,
+                    "duration": 0.11999512,
+                    "text": "y",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 268.61,
+                    "end": 268.79,
+                    "duration": 0.1800232,
+                    "text": "el",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 268.79,
+                    "end": 270.44,
+                    "duration": 1.6499939,
+                    "text": "campo.",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 270.44,
+                    "end": 271.82,
+                    "duration": 1.3800049,
+                    "text": "Canta",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 271.89,
+                    "end": 272.37,
+                    "duration": 0.47998047,
+                    "text": "sin",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 272.37,
+                    "end": 273.3,
+                    "duration": 0.9299927,
+                    "text": "filtro,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 273.3,
+                    "end": 273.69,
+                    "duration": 0.39001465,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 273.69,
+                    "end": 274.12,
+                    "duration": 0.42999268,
+                    "text": "10",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 274.12,
+                    "end": 274.55,
+                    "duration": 0.42999268,
+                    "text": "a",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 274.55,
+                    "end": 274.98,
+                    "duration": 0.4300232,
+                    "text": "14",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 275.19,
+                    "end": 275.58,
+                    "duration": 0.38998413,
+                    "text": "por",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 275.58,
+                    "end": 276.71,
+                    "duration": 1.1300049,
+                    "text": "Mitre.",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 276.71,
+                    "end": 277.65,
+                    "duration": 0.94000244,
+                    "text": "Seguí",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 277.65,
+                    "end": 278.28,
+                    "duration": 0.6300049,
+                    "text": "informado",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 278.28,
+                    "end": 278.58,
+                    "duration": 0.2999878,
+                    "text": "todo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 278.58,
+                    "end": 278.7,
+                    "duration": 0.120025635,
+                    "text": "el",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 278.7,
+                    "end": 279.12,
+                    "duration": 0.4199829,
+                    "text": "día",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 279.12,
+                    "end": 279.51,
+                    "duration": 0.39001465,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 279.51,
+                    "end": 279.9,
+                    "duration": 0.38998413,
+                    "text": "Radio",
+                    "conf": 0.87,
+                    "pristine": true
+                },
+                {
+                    "start": 279.9,
+                    "end": 280.29,
+                    "duration": 0.39001465,
+                    "text": "Mitre",
+                    "conf": 0.57,
+                    "pristine": true
+                },
+                {
+                    "start": 280.29,
+                    "end": 280.65,
+                    "duration": 0.35998535,
+                    "text": "Punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 280.65,
+                    "end": 280.98,
+                    "duration": 0.3300171,
+                    "text": "com.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 280.98,
+                    "end": 281.43,
+                    "duration": 0.4499817,
+                    "text": "Punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 281.43,
+                    "end": 281.73,
+                    "duration": 0.3000183,
+                    "text": "ar.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 282.18,
+                    "end": 282.48,
+                    "duration": 0.3000183,
+                    "text": "Estás",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 282.48,
+                    "end": 283.1,
+                    "duration": 0.6199951,
+                    "text": "escuchando",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 283.11,
+                    "end": 283.62,
+                    "duration": 0.51000977,
+                    "text": "Mitre.",
+                    "conf": 0.98,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 284.25,
+                    "end": 284.79,
+                    "duration": 0.54000854,
+                    "text": "AM",
+                    "conf": 0.74,
+                    "pristine": true
+                },
+                {
+                    "start": 284.79,
+                    "end": 285.15,
+                    "duration": 0.35998535,
+                    "text": "siete",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 285.15,
+                    "end": 285.99,
+                    "duration": 0.83999634,
+                    "text": "90",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 285.99,
+                    "end": 286.32,
+                    "duration": 0.3300171,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 286.32,
+                    "end": 286.68,
+                    "duration": 0.35998535,
+                    "text": "nuestro",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 286.68,
+                    "end": 287.1,
+                    "duration": 0.42001343,
+                    "text": "canal",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 287.1,
+                    "end": 287.25,
+                    "duration": 0.1499939,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 287.25,
+                    "end": 287.82,
+                    "duration": 0.5700073,
+                    "text": "YouTube",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 287.85,
+                    "end": 288.15,
+                    "duration": 0.2999878,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 288.15,
+                    "end": 288.3,
+                    "duration": 0.1499939,
+                    "text": "en",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 288.3,
+                    "end": 288.6,
+                    "duration": 0.3000183,
+                    "text": "radio",
+                    "conf": 0.91,
+                    "pristine": true
+                },
+                {
+                    "start": 288.6,
+                    "end": 288.96,
+                    "duration": 0.35998535,
+                    "text": "Mitre",
+                    "conf": 0.68,
+                    "pristine": true
+                },
+                {
+                    "start": 288.96,
+                    "end": 289.29,
+                    "duration": 0.3300171,
+                    "text": "Punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 289.29,
+                    "end": 289.56,
+                    "duration": 0.269989,
+                    "text": "com",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 289.56,
+                    "end": 289.98,
+                    "duration": 0.42001343,
+                    "text": "Punto",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 289.98,
+                    "end": 290.79,
+                    "duration": 0.80999756,
+                    "text": "ar.",
+                    "conf": 1,
+                    "pristine": false
+                }
+            ]
+        },
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 290.79,
+                    "end": 291.61,
+                    "duration": 0.8199768,
+                    "text": "Las",
+                    "conf": 1,
+                    "pristine": false
+                },
+                {
+                    "start": 291.61,
+                    "end": 292.12,
+                    "duration": 0.51000977,
+                    "text": "primeras",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 292.12,
+                    "end": 293.02,
+                    "duration": 0.8999939,
+                    "text": "noticias,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 293.02,
+                    "end": 293.44,
+                    "duration": 0.42001343,
+                    "text": "los",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 293.44,
+                    "end": 294.07,
+                    "duration": 0.6300049,
+                    "text": "primeros",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 294.07,
+                    "end": 295,
+                    "duration": 0.9299927,
+                    "text": "análisis.",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 295,
+                    "end": 295.33,
+                    "duration": 0.32998657,
+                    "text": "El",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 295.33,
+                    "end": 295.81,
+                    "duration": 0.480011,
+                    "text": "primer",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 295.81,
+                    "end": 296.38,
+                    "duration": 0.5700073,
+                    "text": "buen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 296.38,
+                    "end": 297.03,
+                    "duration": 0.6499939,
+                    "text": "día.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 297.07,
+                    "end": 297.58,
+                    "duration": 0.50997925,
+                    "text": "Cada",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 297.58,
+                    "end": 298.4,
+                    "duration": 0.8200073,
+                    "text": "mañana.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 298.42,
+                    "end": 298.78,
+                    "duration": 0.35998535,
+                    "text": "Cada",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 298.78,
+                    "end": 299.53,
+                    "duration": 0.75,
+                    "text": "mañana.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 299.53,
+                    "end": 300.31,
+                    "duration": 0.7799988,
+                    "text": "Sabes",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 300.31,
+                    "end": 300.85,
+                    "duration": 0.54000854,
+                    "text": "todo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 300.85,
+                    "end": 301,
+                    "duration": 0.1499939,
+                    "text": "lo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 301,
+                    "end": 301.12,
+                    "duration": 0.11999512,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 301.12,
+                    "end": 301.78,
+                    "duration": 0.66000366,
+                    "text": "pasa.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}
